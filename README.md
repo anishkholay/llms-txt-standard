@@ -34,7 +34,7 @@ Welcome to MyWebsite's documentation. Below is an organized list of our key reso
 
 ## Repository Structure
 
-llms-txt-standard/
+llms-txt-standard/ 
 │── README.md  # Overview of the project
 │── llms.txt   # Example llms.txt file
 │── docs/
