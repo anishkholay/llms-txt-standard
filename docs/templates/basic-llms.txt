@@ -1,0 +1,9 @@
+# llms.txt - Basic Example
+
+## Summary
+Welcome to MyWebsite’s documentation.
+
+## Sections
+- [Home](https://mywebsite.com/)
+- [About](https://mywebsite.com/about)
+- [Contact](https://mywebsite.com/contact)
