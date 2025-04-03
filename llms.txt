@@ -1,0 +1,10 @@
+# llms.txt - Overview of MyWebsite Documentation
+
+## Summary
+Welcome to MyWebsite's documentation. Below is an organized list of our key resources to help you navigate and understand our offerings.
+
+## Sections
+- [Introduction](https://mywebsite.com/docs/introduction.md): Overview of our platform and its capabilities.
+- [Getting Started](https://mywebsite.com/docs/getting-started.md): Step-by-step guide to begin using our services.
+- [API Reference](https://mywebsite.com/docs/api-reference.md): Detailed documentation of our API endpoints and usage.
+- [FAQs](https://mywebsite.com/docs/faqs.md): Answers to common questions from our users.
