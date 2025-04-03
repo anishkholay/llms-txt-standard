@@ -33,22 +33,7 @@ Welcome to MyWebsite's documentation. Below is an organized list of our key reso
 
 
 ## Repository Structure
-
-llms-txt-standard/ 
-│── README.md  # Overview of the project
-│── llms.txt   # Example llms.txt file
-│── docs/
-│   ├── usage-guide.md   # How to implement llms.txt
-│   ├── faq.md           # Common questions answered
-│   ├── templates/
-│   │   ├── basic-llms.txt      # A simple example
-│   │   ├── advanced-llms.txt   # A structured example
-│   │   ├── enterprise-llms.txt # Example for large-scale sites
-│── CONTRIBUTING.md  # Guidelines for contributors
-│── LICENSE  # MIT License
-│── .github/
-│   ├── ISSUE_TEMPLATE.md   # Template for bug reports and suggestions
-│   ├── PULL_REQUEST_TEMPLATE.md  # Guidelines for PR submissions
+Refer llms.txt in main
 
 
 ## Contributing
