@@ -44,7 +44,7 @@ This project is open-source under the MIT License.
 
 ## Resources
 - [Robots.txt Overview](https://developers.google.com/search/docs/crawling-indexing/robots/intro)
-- [Latest Discussions on 'llms.txt'](https://github.com/YOUR-REPO/issues)
+- [Latest Discussions on 'llms.txt'](https://github.com/llms-txt-standard/issues)
 
 ---
 
