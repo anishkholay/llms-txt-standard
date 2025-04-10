@@ -1,4 +1,4 @@
-# llms-txt-standard
+# llms.txt standard
 An open-source guide for implementing llms.txt, the standard for LLM interaction with websites.
 
 # llms.txt - The Standard for AI Model Interaction with Websites
